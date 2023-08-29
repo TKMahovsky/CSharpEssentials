@@ -18,4 +18,4 @@ public class ClassWithFunctions
     {
         Console.WriteLine("Running Function");
     }
-}   
+} 
